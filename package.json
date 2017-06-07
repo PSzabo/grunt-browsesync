@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "matchdep": "*",
+    "grunt-browser-sync": "*"
+  }
+}
